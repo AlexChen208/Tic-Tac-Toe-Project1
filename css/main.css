@@ -11,3 +11,8 @@ td {
 .horizontal {
     border-bottom: 1px solid black;
 }
+
+.letter {
+    font-size: 100px;
+    text-align: center;
+}
